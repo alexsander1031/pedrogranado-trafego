@@ -1,0 +1,10 @@
+{
+  "name": "Gestão de Tráfego · Pedro Granado",
+  "short_name": "Tráfego PG",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f4f0",
+  "theme_color": "#1f3a5f",
+  "icons": [{ "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

@@ -1,0 +1,3 @@
+# Configuração mínima para o deploy da função pelo Supabase CLI.
+[functions.api]
+verify_jwt = false
